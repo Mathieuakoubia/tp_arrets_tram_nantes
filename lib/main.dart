@@ -15,9 +15,11 @@ class MyApp extends StatelessWidget {
     return ChangeNotifierProvider(
       create: (context) => ArretProvider(),
       child: MaterialApp(
-        title: 'Flutter Demo',
+        title: 'TAN Arrêts',
+        debugShowCheckedModeBanner: false,
         theme: ThemeData(
-          colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+          colorScheme: ColorScheme.fromSeed(seedColor: Colors.green),
+          useMaterial3: true,
         ),
         home: const MyHomePage(title: 'Arrêts de métro de Nantes'),
       ),

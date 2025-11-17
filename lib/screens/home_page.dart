@@ -24,27 +24,48 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     final arretProvider = Provider.of<ArretProvider>(context);
+    final theme = Theme.of(context);
 
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),
+        backgroundColor: theme.colorScheme.primary,
+        foregroundColor: theme.colorScheme.onPrimary,
       ),
       body: arretProvider.isLoading
           ? const Center(child: CircularProgressIndicator())
           : ListView.builder(
+              padding: const EdgeInsets.all(8.0),
               itemCount: arretProvider.arrets.length,
               itemBuilder: (context, index) {
                 final arret = arretProvider.arrets[index];
-                return ListTile(
-                  title: Text(arret.nom),
-                  onTap: () {
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                        builder: (context) => ArretDetailPage(arret: arret),
+                return Card(
+                  elevation: 2.0,
+                  margin: const EdgeInsets.symmetric(vertical: 8.0),
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(10.0),
+                  ),
+                  child: ListTile(
+                    leading: Icon(
+                      Icons.directions_bus,
+                      color: theme.colorScheme.primary,
+                    ),
+                    title: Text(
+                      arret.nom,
+                      style: theme.textTheme.titleMedium?.copyWith(
+                        fontWeight: FontWeight.bold,
                       ),
-                    );
-                  },
+                    ),
+                    trailing: const Icon(Icons.arrow_forward_ios, size: 16.0),
+                    onTap: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (context) => ArretDetailPage(arret: arret),
+                        ),
+                      );
+                    },
+                  ),
                 );
               },
             ),
