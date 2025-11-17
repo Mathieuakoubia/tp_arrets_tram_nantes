@@ -24,7 +24,7 @@ class ArretDetailPage extends StatelessWidget {
             Text('Longitude: ${arret.longitude ?? 'Non disponible'}', style: const TextStyle(fontSize: 16)),
             const SizedBox(height: 8),
 
-            Text('Latitude: ${arret.latitude ?? 'Non disponible'}', style: const TextStyle(fontSize: 16)),
+            Text('Latitude: ${arret.latitude ?? 'Non disponible pour le moment'}', style: const TextStyle(fontSize: 16)),
           ],
         ),
       ),
