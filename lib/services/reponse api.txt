@@ -1,0 +1,325 @@
+{
+  "total_count": 3723,
+  "results": [
+    {
+      "stop_id": "ABCH",
+      "stop_code": null,
+      "stop_name": "Abbé Chérel",
+      "stop_coordinates": {
+        "lon": -1.651639,
+        "lat": 47.210044
+      },
+      "stop_desc": null,
+      "zone_id": null,
+      "stop_url": null,
+      "location_type": "1",
+      "parent_station": null,
+      "stop_timezone": null,
+      "wheelchair_boarding": null
+    },
+    {
+      "stop_id": "AFRA",
+      "stop_code": null,
+      "stop_name": "Anatole France",
+      "stop_coordinates": {
+        "lon": -1.571614,
+        "lat": 47.223676
+      },
+      "stop_desc": null,
+      "zone_id": null,
+      "stop_url": null,
+      "location_type": "1",
+      "parent_station": null,
+      "stop_timezone": null,
+      "wheelchair_boarding": null
+    },
+    {
+      "stop_id": "AIGU",
+      "stop_code": null,
+      "stop_name": "Aiguillon",
+      "stop_coordinates": {
+        "lon": -1.496597,
+        "lat": 47.254477
+      },
+      "stop_desc": null,
+      "zone_id": null,
+      "stop_url": null,
+      "location_type": "1",
+      "parent_station": null,
+      "stop_timezone": null,
+      "wheelchair_boarding": null
+    },
+    {
+      "stop_id": "BALI",
+      "stop_code": null,
+      "stop_name": "Balinière",
+      "stop_coordinates": {
+        "lon": -1.554021,
+        "lat": 47.18605
+      },
+      "stop_desc": null,
+      "zone_id": null,
+      "stop_url": null,
+      "location_type": "1",
+      "parent_station": null,
+      "stop_timezone": null,
+      "wheelchair_boarding": null
+    },
+    {
+      "stop_id": "BAUG",
+      "stop_code": null,
+      "stop_name": "Baugerie",
+      "stop_coordinates": {
+        "lon": -1.520864,
+        "lat": 47.203443
+      },
+      "stop_desc": null,
+      "zone_id": null,
+      "stop_url": null,
+      "location_type": "1",
+      "parent_station": null,
+      "stop_timezone": null,
+      "wheelchair_boarding": null
+    },
+    {
+      "stop_id": "BBON",
+      "stop_code": null,
+      "stop_name": "Boisbonne",
+      "stop_coordinates": {
+        "lon": -1.508559,
+        "lat": 47.286815
+      },
+      "stop_desc": null,
+      "zone_id": null,
+      "stop_url": null,
+      "location_type": "1",
+      "parent_station": null,
+      "stop_timezone": null,
+      "wheelchair_boarding": null
+    },
+    {
+      "stop_id": "BCES",
+      "stop_code": null,
+      "stop_name": "Bois Cesbron",
+      "stop_coordinates": {
+        "lon": -1.624315,
+        "lat": 47.26097
+      },
+      "stop_desc": null,
+      "zone_id": null,
+      "stop_url": null,
+      "location_type": "1",
+      "parent_station": null,
+      "stop_timezone": null,
+      "wheelchair_boarding": null
+    },
+    {
+      "stop_id": "BDLA",
+      "stop_code": null,
+      "stop_name": "Bout des Landes",
+      "stop_coordinates": {
+        "lon": -1.582289,
+        "lat": 47.267426
+      },
+      "stop_desc": null,
+      "zone_id": null,
+      "stop_url": null,
+      "location_type": "1",
+      "parent_station": null,
+      "stop_timezone": null,
+      "wheelchair_boarding": null
+    },
+    {
+      "stop_id": "BEOC",
+      "stop_code": null,
+      "stop_name": "Belloc",
+      "stop_coordinates": {
+        "lon": -1.614715,
+        "lat": 47.203053
+      },
+      "stop_desc": null,
+      "zone_id": null,
+      "stop_url": null,
+      "location_type": "1",
+      "parent_station": null,
+      "stop_timezone": null,
+      "wheelchair_boarding": null
+    },
+    {
+      "stop_id": "BHAR",
+      "stop_code": null,
+      "stop_name": "Bois Hardy",
+      "stop_coordinates": {
+        "lon": -1.600544,
+        "lat": 47.198286
+      },
+      "stop_desc": null,
+      "zone_id": null,
+      "stop_url": null,
+      "location_type": "1",
+      "parent_station": null,
+      "stop_timezone": null,
+      "wheelchair_boarding": null
+    },
+    {
+      "stop_id": "BILE",
+      "stop_code": null,
+      "stop_name": "Basse Île",
+      "stop_coordinates": {
+        "lon": -1.562133,
+        "lat": 47.195965
+      },
+      "stop_desc": null,
+      "zone_id": null,
+      "stop_url": null,
+      "location_type": "1",
+      "parent_station": null,
+      "stop_timezone": null,
+      "wheelchair_boarding": null
+    },
+    {
+      "stop_id": "BLOR",
+      "stop_code": null,
+      "stop_name": "Blordière",
+      "stop_coordinates": {
+        "lon": -1.533813,
+        "lat": 47.17994
+      },
+      "stop_desc": null,
+      "zone_id": null,
+      "stop_url": null,
+      "location_type": "1",
+      "parent_station": null,
+      "stop_timezone": null,
+      "wheelchair_boarding": null
+    },
+    {
+      "stop_id": "BLUA",
+      "stop_code": null,
+      "stop_name": "Bélouga",
+      "stop_coordinates": {
+        "lon": -1.583474,
+        "lat": 47.165797
+      },
+      "stop_desc": null,
+      "zone_id": null,
+      "stop_url": null,
+      "location_type": "1",
+      "parent_station": null,
+      "stop_timezone": null,
+      "wheelchair_boarding": null
+    },
+    {
+      "stop_id": "BLZZ",
+      "stop_code": null,
+      "stop_name": "Berlioz",
+      "stop_coordinates": {
+        "lon": -1.571515,
+        "lat": 47.239674
+      },
+      "stop_desc": null,
+      "zone_id": null,
+      "stop_url": null,
+      "location_type": "1",
+      "parent_station": null,
+      "stop_timezone": null,
+      "wheelchair_boarding": null
+    },
+    {
+      "stop_id": "BNNO",
+      "stop_code": null,
+      "stop_name": "Bernanos",
+      "stop_coordinates": {
+        "lon": -1.613859,
+        "lat": 47.206163
+      },
+      "stop_desc": null,
+      "zone_id": null,
+      "stop_url": null,
+      "location_type": "1",
+      "parent_station": null,
+      "stop_timezone": null,
+      "wheelchair_boarding": null
+    },
+    {
+      "stop_id": "BOGE",
+      "stop_code": null,
+      "stop_name": "Bourgeonnière",
+      "stop_coordinates": {
+        "lon": -1.561313,
+        "lat": 47.252943
+      },
+      "stop_desc": null,
+      "zone_id": null,
+      "stop_url": null,
+      "location_type": "1",
+      "parent_station": null,
+      "stop_timezone": null,
+      "wheelchair_boarding": null
+    },
+    {
+      "stop_id": "BOVR",
+      "stop_code": null,
+      "stop_name": "Bouvre",
+      "stop_coordinates": {
+        "lon": -1.613829,
+        "lat": 47.175996
+      },
+      "stop_desc": null,
+      "zone_id": null,
+      "stop_url": null,
+      "location_type": "1",
+      "parent_station": null,
+      "stop_timezone": null,
+      "wheelchair_boarding": null
+    },
+    {
+      "stop_id": "BRGA",
+      "stop_code": null,
+      "stop_name": "Beauregard",
+      "stop_coordinates": {
+        "lon": -1.656561,
+        "lat": 47.210723
+      },
+      "stop_desc": null,
+      "zone_id": null,
+      "stop_url": null,
+      "location_type": "1",
+      "parent_station": null,
+      "stop_timezone": null,
+      "wheelchair_boarding": null
+    },
+    {
+      "stop_id": "BSYS",
+      "stop_code": null,
+      "stop_name": "Bois St-Lys",
+      "stop_coordinates": {
+        "lon": -1.482113,
+        "lat": 47.3003
+      },
+      "stop_desc": null,
+      "zone_id": null,
+      "stop_url": null,
+      "location_type": "1",
+      "parent_station": null,
+      "stop_timezone": null,
+      "wheelchair_boarding": null
+    },
+    {
+      "stop_id": "BYTO",
+      "stop_code": null,
+      "stop_name": "Bouaye Coteaux",
+      "stop_coordinates": {
+        "lon": -1.678865,
+        "lat": 47.164778
+      },
+      "stop_desc": null,
+      "zone_id": null,
+      "stop_url": null,
+      "location_type": "1",
+      "parent_station": null,
+      "stop_timezone": null,
+      "wheelchair_boarding": null
+    }
+  ]
+}
